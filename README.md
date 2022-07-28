@@ -2,7 +2,7 @@
 
 ¡Muy buen día!
 
-Aquí envío mi prueba para ingresar como desarrollador frontend. 
+Aquí envío mi prueba de ingreso para el cargo de desarrollador frontend. 
 
 Entorno de pruebas:
 
