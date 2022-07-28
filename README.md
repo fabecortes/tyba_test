@@ -1,16 +1,11 @@
 # tyba_test
 
-A new Flutter project.
+¡Muy buen día!
 
-## Getting Started
+Aquí envío mi prueba para ingresar como desarrollador frontend. 
 
-This project is a starting point for a Flutter application.
+Entorno de pruebas:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Emulador Android: Pixel 4 API 33
+Emulador iOS: iPhone 11
+Flutter version: 67.1.2
